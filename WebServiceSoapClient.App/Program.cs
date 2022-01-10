@@ -13,7 +13,7 @@ namespace WebServiceSoapClient.App
             c.Nome = "Gabriel";
             c.Email = "gabriel.teste@gmail.com";
 
-            s.AddContact(c);
+            var response = s.AddContact(c);
 
             var lista2 = s.GetAllContacts();
 
