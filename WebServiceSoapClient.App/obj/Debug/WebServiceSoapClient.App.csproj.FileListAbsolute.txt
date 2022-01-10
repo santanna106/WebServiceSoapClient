@@ -1,0 +1,7 @@
+F:\Desenvolvimento\.net\WebServiceSoapClient\WebServiceSoapClient.App\bin\Debug\WebServiceSoapClient.App.exe.config
+F:\Desenvolvimento\.net\WebServiceSoapClient\WebServiceSoapClient.App\bin\Debug\WebServiceSoapClient.App.exe
+F:\Desenvolvimento\.net\WebServiceSoapClient\WebServiceSoapClient.App\bin\Debug\WebServiceSoapClient.App.pdb
+F:\Desenvolvimento\.net\WebServiceSoapClient\WebServiceSoapClient.App\obj\Debug\WebServiceSoapClient.App.csproj.AssemblyReference.cache
+F:\Desenvolvimento\.net\WebServiceSoapClient\WebServiceSoapClient.App\obj\Debug\WebServiceSoapClient.App.csproj.CoreCompileInputs.cache
+F:\Desenvolvimento\.net\WebServiceSoapClient\WebServiceSoapClient.App\obj\Debug\WebServiceSoapClient.App.exe
+F:\Desenvolvimento\.net\WebServiceSoapClient\WebServiceSoapClient.App\obj\Debug\WebServiceSoapClient.App.pdb
